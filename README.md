@@ -7,7 +7,7 @@ Understanding DNS is helpful context for those wishing to create web pages. DNS 
 
 ## Methodology
 
-Wireshark is a traffic monitoring tool that you can run with administrator priviledges on your machine. It can show you every packet of network traffic that passes through your machine. You can see so much, the main issue is finding a way to filter out what you don't want to see. First we filter for DNS to see the DNS request made by the browser, then for HTTP to see the browser request the page itself (and the contents). 
+[Wireshark](https://wireshark.org) is a traffic monitoring tool that you can run with administrator privileges on your machine. It can show you every packet of network traffic that passes through your machine. You can see so much, the main issue is finding a way to filter out what you don't want to see. First we filter for DNS to see the DNS request made by the browser, then for HTTP to see the browser request the page itself (and the contents). 
 
 ## Results
 
